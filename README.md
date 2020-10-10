@@ -2,6 +2,7 @@
 
 ---
 
+```
 Get midseq form fastq reads
 
 usage: midseq.py [-h] [-f F] [-t T] [-o OUTPUT] [-of OUTPUTFASTA]
@@ -23,3 +24,4 @@ optional arguments:
   -of OUTPUTFASTA, --outputfasta OUTPUTFASTA
                         The output fasta name. The default is not to output
                         this file unless assigned its file name.
+```
